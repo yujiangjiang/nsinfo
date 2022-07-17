@@ -1,0 +1,2 @@
+# nsinfo
+for python study
